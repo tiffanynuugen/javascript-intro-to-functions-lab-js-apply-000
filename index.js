@@ -23,3 +23,7 @@ function sayHiToGrandma(string) {
   return "YES INDEED!";
   console.log(string.toUpperCase())
 }
+
+function sayHiToGrandma(string) {
+  
+}
