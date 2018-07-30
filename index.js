@@ -18,4 +18,3 @@ function sayHiToGrandma(string) {
   return "I can't hear you!";
   console.log(string.toLowerCase())
 }
-
